@@ -30,6 +30,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
+    //tesrt
     ArrayList<ChatMessage> list;
     MyAdapter ap;
 
